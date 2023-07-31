@@ -1,0 +1,17 @@
+{
+    "remote.SSH.remoteServerListenOnSocket": true,
+    "swaggerViewer.defaultPort": 8080,
+    "explorer.fileNesting.enabled": true,
+    "search.quickOpen.includeSymbols": true,
+    "search.seedOnFocus": true,
+    "search.showLineNumbers": true,
+    "search.seedWithNearestWord": true,
+    "search.smartCase": true,
+    "search.useGlobalIgnoreFiles": true,
+    "debug.allowBreakpointsEverywhere": true,
+    "debug.console.closeOnEnd": true,
+    "debug.openExplorerOnEnd": true,
+    "debug.showBreakpointsInOverviewRuler": true,
+    "debug.showSubSessionsInToolBar": true,
+    "testing.alwaysRevealTestOnStateChange": true
+}
